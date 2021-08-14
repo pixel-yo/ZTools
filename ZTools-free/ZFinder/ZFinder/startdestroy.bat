@@ -1,1 +1,0 @@
-python destroy.py
